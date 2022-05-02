@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/xFelienDev/xfeliendev.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Hi, I am xFelienDev (also known as Aja on the WRD Forum). I am a intermediate C# programmer, begginer Node.JS, C++ and PHP developer and young website designer. I am currently trying to learn to code by myself, however situations may happen in which I will need to get a little help by using someone else's codes, which I think is allowed and should not be hated, if the original creator of the code does allow that and releases it as open source.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If you need help, you can contact me on WeAreDevs by sending me a message or Discord (poopbob7#0918), but getting a response from me on there might take a while since I do not have much time to check it.
 
-### Markdown
+### Some of my projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Since I am a programmer, you think I have some projects that I am working on or have made. And you're right, I have made one and I am currently working on it, called [Carmel](https://dsc.gg/crml) which is a Roblox scripting software which can be used to learn Lua and grow your Lua skills.
 
-```markdown
-Syntax highlighted code block
+If you'd like to hire me to work for your project / you, feel free to message me via contacts given before. Keep in mind any tips are appreciated.
 
-# Header 1
-## Header 2
-### Header 3
+### What are your passions?
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xFelienDev/xfeliendev.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+My current passion is programming, but if we're talking the real life passions, then **basketball**. I don't do much sports generally, if anything, it's basketball. If you ask me if I am good in it, well, let's say 50/50.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with your code? Need help with your project? I will try to help you as good as it is possible for me. I understand people that are trying to get help from others. Some say it's spoonfeeding - however I call it **helping**. We all started from nothing. Now, let's share our knowledge with others.
